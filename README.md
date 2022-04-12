@@ -1,4 +1,4 @@
-- [DEMO LINK](https://maksym-mishchanchuk.github.io/TodoList-React)
+- [DEMO LINK](https://maksym-mishchanchuk.github.io/todo-list-react/)
 - [TASK](https://drive.google.com/file/d/1RMhJnLr2rS16Fr7o889XCbkPdMnovLlt/view?ts=624d6a0c)
 
 #Technologies:
