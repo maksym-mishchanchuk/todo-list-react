@@ -1,0 +1,16 @@
+.container__todoID {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0 auto;
+
+}
+
+.todoID__title {
+  text-align: center;
+}
+
+.todoID__link {
+  width: fit-content;
+  margin: 0 auto;
+}

@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  padding: 15px 10px 15px;
+  margin-bottom: 20px;
+  background: rgba(0, 0, 0, 0.8);
+
+  &-link {
+    border: 1px solid black;
+  }
+}
